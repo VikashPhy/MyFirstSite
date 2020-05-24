@@ -1,6 +1,6 @@
 ## Welcome to my First site 
 
-This part is just for the reference
+This part is just for the reference.
 
 You can use the [editor on GitHub](https://github.com/VikashPhy/MyFirstSite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
